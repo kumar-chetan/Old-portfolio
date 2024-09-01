@@ -1,0 +1,174 @@
+[
+  {
+    "name": "Django App",
+    "desc": "Django-To-Do-list-with-user-authentication To Do list app with User Registration, Login, Search and full Create Read Update and DELETE functionality.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "http://chetankr.pythonanywhere.com/",
+      "code": "https://github.com/kumar-chetan/Django-To-Do-list-with-user-authentication"
+    }
+  },
+  {
+    "name": "Face Verification Web App",
+    "desc": "Face Verification Web App: Compare faces, manage images, and recognize identities. Built with Flask and face recognition. Simplify face-related tasks..",
+    "image": "sppuprepandroid",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": "https://github.com/kumar-chetan/face-verification-app"
+    }
+  },
+  {
+    "name": "NewsBox Android",
+    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Weatherly Android",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
+    "category": "android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Django App",
+    "desc": "Django-To-Do-list-with-user-authentication To Do list app with User Registration, Login, Search and full Create Read Update and DELETE functionality.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "http://chetankr.pythonanywhere.com/",
+      "code": "https://github.com/kumar-chetan/Django-To-Do-list-with-user-authentication"
+    }
+  },
+  {
+    "name": "Face Verification Web App",
+    "desc": "Face Verification Web App: Compare faces, manage images, and recognize identities. Built with Flask and face recognition. Simplify face-related tasks..",
+    "image": "sppuprepandroid",
+    "category": "android",
+    "links": {
+      "view": "",
+      "code": "https://github.com/kumar-chetan/face-verification-app"
+    }
+  },
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "https://resumegenx.netlify.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Power BI",
+    "desc": "Analyze Ecommerce sales data created are interacting dahsboard using Power BI",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/kumar-chetan/Power-BI"
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Flipkart PHP",
+    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "flipkartphp",
+    "category": "lamp",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "bootstrapportfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Bootstrap Template",
+    "desc": "Basic website template built using HTML and Bootstrap.",
+    "image": "bootstraptemplate",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Foodicious",
+    "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
+    "image": "foodicious",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Food Website",
+    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "image": "foodwebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "WebChat Website",
+    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
+    "image": "webchat",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+ 
+  
+  {
+    "name": "Job Finder Dummy",
+    "desc": "It Fetch JSON Data And Allow Feature To Search Within The Content Displayed. Will be Developed By Using Live APIs.",
+    "image": "saas",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
